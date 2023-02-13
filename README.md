@@ -1,9 +1,12 @@
 
 # Employee Turnover Rate Prediction
-This project is to find out the employees who are going to leave their company and employees who are going to stay in their company.
+If an employee that you have invested so much time and money leaves for other companies, then this would mean
+that you would have to spend even more time and money to hire somebody else. Making use of
+data science and predictive modeling capabilities, if we can predict employee turnover rate it will
+save the company from loss.This project is to find out the employees who are going to leave their company and employees who are going to stay in their company.
 
 
-## Features
+## Dataset
 
 Features of the dataset included all the relative information about the employees working in the organisation.
 For example, their job profile, years completed in the company, their recent managers, total working hours etc.
