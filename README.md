@@ -1,7 +1,8 @@
 
 # Employee Turnover Rate Prediction
 If an employee that you have invested so much time and money leaves for other companies, then this would mean
-that you would have to spend even more time and money to hire somebody else. Making use of
+that you would have to spend even more time and money to hire somebody else. 
+Making use of
 data science and predictive modeling capabilities, if we can predict employee turnover rate it will
 save the company from loss.This project is to find out the employees who are going to leave their company and employees who are going to stay in their company.
 
