@@ -12,6 +12,9 @@ save the company from loss.This project is to find out the employees who are goi
 Features of the dataset included all the relative information about the employees working in the organisation.
 For example, their job profile, years completed in the company, their recent managers, total working hours etc.
 
+## Dataset link
+https://drive.google.com/drive/folders/1fmCqKr6DNqy8g3tvlFjMpXPix6f-sLAi
+
 
 ## Feature engineering
 
