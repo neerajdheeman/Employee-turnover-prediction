@@ -15,12 +15,13 @@ For example, their job profile, years completed in the company, their recent man
 
 ## Feature engineering
 
-Feature engineering was done on features of dataset. These Feature engineering techniques were applied to make the dataset such that Machine Learning algorithms can have a maximum accuracy in predicting the turnover rate.
+Feature engineering was done on features of dataset. These Feature engineering techniques were applied to make the dataset such that Machine Learning algorithms can have a maximum accuracy in predicting the turnover rate. These included dealing with missing and duplicate data, selection of important features, removal of outliers etc.
 
 
 ## Data Sets
 After successfull Feature engineering, a training data set and a testing data set were made.
 Training data set was used to train the Machine Learning models, and testing data set was used to find out accuracy of our model.
+
 ## Running Tests
 To run the tests, model was evaluated using confusion matrix, accuracy, precision, recall, f1_score.
 
